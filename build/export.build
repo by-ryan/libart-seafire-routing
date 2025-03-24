@@ -1,0 +1,6 @@
+$out_root/
+{
+  include art/seafire/routing/
+}
+
+export $out_root/art/seafire/routing/$import.target
